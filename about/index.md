@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 ---
     
-<center><a href="sif.uin-suska.ac.id">Sistem Informasi</a>
+<center><a href="sif.uin-suska.ac.id"><b>Sistem Informasi</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Features
 * Minimal, you can focus on your content
