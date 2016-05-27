@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 ---
     
-saya adalah mahasiswa <center><a href="sif.uin-suska.ac.id"><b>Sistem Informasi</b></a> di kampus <a href="sif.uin-suska.ac.id"><b>Sistem Informasi</b></a></center>
+<center>saya adalah mahasiswa <a href="sif.uin-suska.ac.id"><b>Sistem Informasi</b></a> di kampus <a href="uin-suska.ac.id"><b>UIN SUKA RIAU</b></a></center>
 
 ## Features
 * Minimal, you can focus on your content
