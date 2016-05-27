@@ -5,19 +5,24 @@ tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 ---
     
-<center>Saya adalah mahasiswa <a href="sif.uin-suska.ac.id"><b>Sistem Informasi</b></a> di kampus <a href="uin-suska.ac.id"><b>UIN SUKA RIAU</b></a> . Berikut biodata tentang saya </center>
+<center>Saya adalah mahasiswa <a href="sif.uin-suska.ac.id"><b>Sistem Informasi</b></a> di kampus <a href="uin-suska.ac.id"><b>UIN SUKA RIAU</b></a> . Berikut biodata tentang saya :</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Biodata
+* Nama              : Hari Erdi
+* TTL               : 17 Juli 1993 
+* Jenis Kelamin     : Laki-laki
+* Aalamat           : Jl. Melati
+* Agama             : Islam
+* Pekerjaan         : Mahasiswa
+* Kewarganegaraan   : WNI
+* Riwayat Pendidikan
+            TK      : TK Aisyah 2 Duri
+            SD      : SDN 022 Duri
+            SMP     : SMPN 1 Duri
+            SMA     : SMAN 1 Duri
+* No Hp             : +62822-8598-2768
+* Email             : harierdi@gmail.com
+* Hoby              : Musik dan Game(terutama DOTA)
 
 ## Preview
 
