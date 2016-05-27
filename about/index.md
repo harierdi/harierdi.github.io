@@ -15,11 +15,6 @@ date: 2016-03-21
 * Agama             : Islam
 * Pekerjaan         : Mahasiswa
 * Kewarganegaraan   : WNI
-* Riwayat Pendidikan
-            TK      : TK Aisyah 2 Duri
-            SD      : SDN 022 Duri
-            SMP     : SMPN 1 Duri
-            SMA     : SMAN 1 Duri
 * No Hp             : +62822-8598-2768
 * Email             : harierdi@gmail.com
 * Hoby              : Musik dan Game(terutama DOTA)
