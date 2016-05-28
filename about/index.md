@@ -8,7 +8,7 @@ date: 2016-03-21
 Saya adalah mahasiswa [Sistem Informasi](http://sif.uin-suska.ac.id/) di kampus [UIN Suska Riau](http://uin-suska.ac.id/) . Berikut biodata tentang saya :
 
 {% capture images %}
-https://github.com/harierdi/harierdi.github.io/blob/master/assets/img/IMG_20151117_190354.jpg
+https://github.com/harierdi/harierdi.github.io/blob/master/assets/img/1447426675140.jpg
 {% endcapture %}
 {% include gallery images=images caption="About me" cols=2 %}
 
