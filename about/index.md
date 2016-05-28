@@ -10,7 +10,6 @@ Saya adalah mahasiswa [Sistem Informasi](http://sif.uin-suska.ac.id/) di kampus 
 {% capture images %}
 https://raw.githubusercontent.com/harierdi/harierdi.github.io/master/assets/img/IMG_20151117_190354.jpg
 {% endcapture %}
-{% include gallery images=images caption="About me" cols=2 %}
 
 ## Tentang Saya
 * Nama              : Hari Erdi
