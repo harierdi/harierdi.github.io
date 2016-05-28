@@ -5,7 +5,7 @@ description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'http://4.bp.blogspot.com/-kYxMblwUeuM/VI_0U_DjzdI/AAAAAAAABzA/lZKCBHEDYrA/s1600/Black%2BShoes%2BWallpaper.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://harierdi.github.io
