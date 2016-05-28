@@ -11,7 +11,8 @@ date: 2016-03-21
 * Nama              : Hari Erdi
 * TTL               : 17 Juli 1993 
 * Jenis Kelamin     : Laki-laki
-* Aalamat           : Jl. Melati
+* Alamat            : Jl. Melati
+* Jurusan           : [Sistem Informasi](http://sif.uin-suska.ac.id/)<br>
 * Agama             : Islam
 * Pekerjaan         : Mahasiswa
 * Kewarganegaraan   : WNI
