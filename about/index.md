@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 ---
     
-<center>Saya adalah mahasiswa [Sistem Informasi](http://sif.uin-suska.ac.id) di kampus [UIN Suska Riau](htpp://uin-suska.ac.id) . Berikut biodata tentang saya :</center> 
+<center>Saya adalah mahasiswa [Sistem Informasi](http://sif.uin-suska.ac.id/) di kampus [UIN Suska Riau](htpp://uin-suska.ac.id) . Berikut biodata tentang saya :</center> 
 
 ## Biodata
 * Nama              : Hari Erdi
