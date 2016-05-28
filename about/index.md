@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About Me
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+tags: [about]
+date: 2016-05-28
 ---
     
 Saya adalah mahasiswa [Sistem Informasi](http://sif.uin-suska.ac.id/) di kampus [UIN Suska Riau](http://uin-suska.ac.id/) . Berikut biodata tentang saya :
