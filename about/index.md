@@ -12,9 +12,10 @@ date: 2016-03-21
 * TTL               : 17 Juli 1993 
 * Jenis Kelamin     : Laki-laki
 * Alamat            : Jl. Melati
-* Jurusan           : [Sistem Informasi](http://sif.uin-suska.ac.id/)<br>
 * Agama             : Islam
 * Pekerjaan         : Mahasiswa
+* Jurusan           : [Sistem Informasi](http://sif.uin-suska.ac.id/)
+* Universitas       : [UIN Suska Riau](http://uin-suska.ac.id/)
 * Kewarganegaraan   : WNI
 * No Hp             : +62822-8598-2768
 * Email             : harierdi@gmail.com
