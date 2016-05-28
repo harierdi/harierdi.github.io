@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/harierdi/harierdi.github.io/master/assets/img/
 
 ## Tentang Saya
 * Nama              : Hari Erdi
-* TTL               : 17 Juli 1993 
+* TTL               : Duri, 17 Juli 1993 
 * Jenis Kelamin     : Laki-laki
 * Alamat            : Jl. Melati
 * Agama             : Islam
@@ -26,18 +26,5 @@ https://raw.githubusercontent.com/harierdi/harierdi.github.io/master/assets/img/
 * Email             : harierdi@gmail.com
 * Hoby              : Musik dan Game(terutama DOTA)
 
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## Lebih dekat dengan saya
+Nama saya **Hari Erdi** biasa di panggil **Aiy** . Saya anak ke 3 dari 4 bersaudara . Sekarang mengenyam pendidikan di Universitas Islam Negeri Sultan Syarif Kasim Riau Fakultas Sains dan Teknologi Jurusan Sistem Informasi . Saya hobi bermain musik dan game, terumatama DOTA XD . kalau mau main bareng bisa add ID Steam saya, klik aja logo Steam pada home . sedikit tentang saya terima kasih .
