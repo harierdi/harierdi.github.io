@@ -7,6 +7,10 @@ date: 2016-03-21
     
 Saya adalah mahasiswa [Sistem Informasi](http://sif.uin-suska.ac.id/) di kampus [UIN Suska Riau](http://uin-suska.ac.id/) . Berikut biodata tentang saya :
 
+{% capture images %}
+https://github.com/harierdi/harierdi.github.io/blob/master/assets/img/IMG_20151117_190354.jpg
+{% endcapture %}
+
 ## Tentang Saya
 * Nama              : Hari Erdi
 * TTL               : 17 Juli 1993 
